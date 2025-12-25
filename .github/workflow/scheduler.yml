@@ -1,0 +1,4 @@
+name: Multi Repo Bot Scheduler
+
+on:
+  workflow_dispatch:
